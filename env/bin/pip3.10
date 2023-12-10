@@ -1,4 +1,6 @@
-#!/home/brc0d3s/Desktop/DEVELOPMENT/Django-React-NotesApp/env/bin/python
+#!/bin/sh
+'''exec' "/home/brc0d3s/Desktop/brc0d3s_GIT REPOS/Django-React-NotesApp/env/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

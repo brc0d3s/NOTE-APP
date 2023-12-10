@@ -1,11 +1,6 @@
-asgiref
 Django
 django-cors-headers
 djangorestframework
 dnspython
 gunicorn
-packaging
 psycopg2-binary
-pytz
-sqlparse
-typing_extensions

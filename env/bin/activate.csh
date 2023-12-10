@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/brc0d3s/Desktop/DEVELOPMENT/Django-React-NotesApp/env"
+setenv VIRTUAL_ENV "/home/brc0d3s/Desktop/brc0d3s_GIT REPOS/Django-React-NotesApp/env"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

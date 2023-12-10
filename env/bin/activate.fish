@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/brc0d3s/Desktop/DEVELOPMENT/Django-React-NotesApp/env"
+set -gx VIRTUAL_ENV "/home/brc0d3s/Desktop/brc0d3s_GIT REPOS/Django-React-NotesApp/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

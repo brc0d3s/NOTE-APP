@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/brc0d3s/Desktop/DEVELOPMENT/Django-React-NotesApp/env"
+VIRTUAL_ENV="/home/brc0d3s/Desktop/brc0d3s_GIT REPOS/Django-React-NotesApp/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
