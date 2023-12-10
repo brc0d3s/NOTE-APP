@@ -93,13 +93,14 @@ WSGI_APPLICATION = 'mynotes.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': "django.db.backends.postgresql",
-        'HOST': "db.brnhihcltlhribcvqvtp.supabase.co",
+        'HOST': "db.pkovntncvmazpybfeifs.supabase.co",
         'NAME': "postgres",
         'USER': "postgres",
         'PASSWORD': "djangonoteapp",
         'PORT': "5432",
     }
 }
+
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
@@ -142,9 +143,6 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     BASE_DIR / 'frontend/build/static'
 ]
-
-STATIC_ROOT = BASE_DIR / 'staticfiles'
-
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
